@@ -1,11 +1,13 @@
 #include "main.h"
 
-
-/** @s: The pointer variable to string s**/
+/**
+ * _puts_recursion - function that prints a string,
+ * followed by a new line.
+ * @s: The pointer variable to string s
+ */
 
 void _puts_recursion(char *s)
 {
-/**add a byte **/
 if (*s)
 {
 _putchar(*s);
