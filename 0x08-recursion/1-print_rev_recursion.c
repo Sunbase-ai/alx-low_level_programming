@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _puts_recursion - function that prints a reversed string,
- *  
+ * _print_rev_recursion - function that prints a reversed string,
+ *
  * @s: The pointer variable to string s
  */
 
