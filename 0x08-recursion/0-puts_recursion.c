@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**function for printing**/
+/** @s: The pointer variable to string s**/
 
 void _puts_recursion(char *s)
 {
