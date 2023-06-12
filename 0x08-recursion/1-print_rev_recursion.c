@@ -6,11 +6,11 @@
  * @s: The pointer variable to string s
  */
 
-void _puts_recursion(char *s)
+void _print_rev_recursion(char *s)
 {
 if (*s)
 {
-_puts_recursion(s + 1);
+_print_rev_recursion(s + 1);
 _putchar(*s);
 }
 }
