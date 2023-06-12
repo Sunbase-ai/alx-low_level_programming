@@ -1,8 +1,6 @@
 #include "main.h"
 
-//----------------------------------------------------------------function for printing----------------------------------------------------------------
-
-
+//function for printing
 
 void _puts_recursion(char *s)
 {
